@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import Encabezado from "../componentes/Encabezado";
 import PieDePagina from "../componentes/PiePagina";
 
+//Api
 let apiGraficos = "https://dbsaboryalma.onrender.com/graficos";
 
 const Graficos = () => {
